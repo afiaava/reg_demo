@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background: url(photo.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+lavel{
+    color:  blanchedalmond;
+    font-size: 18px;
+    font-family:sans-serif;
+    
+    
+}
+h2{
+    text-align: center;
+    color: beige;
+    background: rgba(0,0,0,0.5);
+    padding: 15px;
+}
+.reg{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    color: darkgray;
+    background: rgba(0,0,0,0.5);
+    border: 2px solid beige;
+    padding: 15px;
+}
+ 
+#name{
+    width: 40%;
+    padding: 4px;
+    border-radius: 10px;
+    border: 1px solid beige;
+    outline: 0;
+    font-family: serif;
+    font-size: 15px;
+    background: none;
+    color: white;
+    
+}
+
+#number{
+    width: 40%;
+    padding: 4px;
+    border-radius: 10px;
+    border: 1px solid beige;
+    outline: 0;
+    font-family: serif;
+    font-size: 15px;
+    background: none;
+    color: white;
+}
+#num{
+     width: 9%;
+    padding: 5px 0px;
+    border-radius: 10px;
+    border: 1px solid beige;
+    outline: 0;
+    background: none;
+    color: beige;
+    
+}
+#check{
+    font-family: serif;
+    font-size: 15px;
+}
+#sub{
+    width: 150px;
+    padding: 5px;
+    font-family: serif;
+    font-size: 15px;
+    border: 1px solid beige;
+    outline: 0;
+    border-radius: 10px;
+    background: none;
+    color: beige;
+}
+#sub:hover{
+    background: #123456;
+}
+
